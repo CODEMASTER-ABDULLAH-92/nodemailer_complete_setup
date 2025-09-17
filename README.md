@@ -24,15 +24,19 @@ A sleek **full-stack contact form** with React frontend & Node.js backend using 
 ---
 
 ## ⚡ Quick Start
+
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/CODEMASTER-ABDULLAH-92/nodemailer_complete_setup.git
    npm install
    ```
+
    - EMAIL_USER=your-email@gmail.com
+
 - EMAIL_PASS=your-app-password
--RESEND_API_KEY=your-resend-api-key
+  -RESEND_API_KEY=your-resend-api-key
+
 ```bash
 import nodemailer from "nodemailer";
 
@@ -81,6 +85,7 @@ console.log("EMAIL_PASS length:", process.env.EMAIL_PASS?.length);
 ```
 
 **3. Frontend Code**
+
 ```bash
 "use client";
 import { useState } from "react";
@@ -205,17 +210,25 @@ export default function ContactPage() {
   );
 }
 ```
+
 ---
+
 ## 💡 Tips
+
 - Use Gmail App Password for SMTP (more secure)
 - Keep .env private 🔒
 - Customize UI easily with Tailwind CSS
 - Check console logs for email errors
+
 ---
-- *Kindly Star this repo if you found any help*
-- *Made with ❤️ by Muhammad Abdullah*
-- *Contact: abdullahpeerzada92@gmail.com*
+
+- _Kindly Star this repo if you found any help_
+- _Made with ❤️ by Muhammad Abdullah_
+- _Contact: abdullahpeerzada92@gmail.com_
+
 ---
+
 If you find any bugs or issues, kindly reach out via email or LinkedIn:
-- 📧 Email: abdullahpeerzada92@gmail.com  
+
+- 📧 Email: abdullahpeerzada92@gmail.com
 - 🔗 LinkedIn: [Abdullah's Linkedin](https://www.linkedin.com/in/muhammad-abdullah-4881b2384/)
