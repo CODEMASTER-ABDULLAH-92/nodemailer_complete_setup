@@ -1,4 +1,4 @@
-# 🚀 NordMiller Complete Setup
+# 🚀 NodeMailer Complete Setup
 
 A sleek **full-stack contact form** with React frontend & Node.js backend using Nodemailer + Gmail SMTP. Easy to set up, secure, and stylish!
 
