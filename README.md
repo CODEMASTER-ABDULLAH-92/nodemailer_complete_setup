@@ -46,7 +46,7 @@ NordMiller Complete Setup provides a modern contact form with:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/nordmiller-complete-setup.git
+   git clone https://github.com/CODEMASTER-ABDULLAH-92/nodemailer_complete_setup.git
    ```
    - EMAIL_USER=your-email@gmail.com
 - EMAIL_PASS=your-app-password
