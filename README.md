@@ -32,10 +32,8 @@ A sleek **full-stack contact form** with React frontend & Node.js backend using 
    npm install
    ```
 
-   - EMAIL_USER=your-email@gmail.com
-
+- EMAIL_USER=your-email@gmail.com
 - EMAIL_PASS=your-app-password
-  -RESEND_API_KEY=your-resend-api-key
 
 ```bash
 import nodemailer from "nodemailer";
